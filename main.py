@@ -57,4 +57,5 @@ def main():
         print(red("Invalid input"))
         time.sleep(y)
         os.system('clear')
+        main();
 main();
